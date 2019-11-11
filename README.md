@@ -1,5 +1,7 @@
 ### Java Course
 
+Now is 8:39
+
 #### Resources
 
 Link JDK 8: https://www.azul.com/downloads/zulu-community/?&version=java-8-lts&os=&os=windows&package=jdk
