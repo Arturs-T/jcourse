@@ -1,5 +1,6 @@
-### Java Course 
-Some text here
+### Java Course
+
+Now is 8:36
 
 #### Resources
 
